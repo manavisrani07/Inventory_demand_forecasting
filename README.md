@@ -36,7 +36,7 @@ The project is organized into the following key steps:
 
 ## Contributors 👥
 
-- ManavTech07 (GitHub Username: @manavtech07)
+- ManavTech07 (GitHub Username: @manavisrani07)
 - Contact: manavisrani07@gmail.com
 
 ## License 📜
